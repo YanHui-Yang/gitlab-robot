@@ -1,6 +1,6 @@
 # gitlab-robot
 
-PS：这是一个 gitlab webhook 机器人
+PS：这是一个企业微信 gitlab webhook 机器人
 
 ## 效果图
 
